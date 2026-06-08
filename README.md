@@ -14,18 +14,18 @@ The files are in xz format for maximum compression. To extract, use the followin
 
 Step 1: Recombine all parts into one archive
 
-`
+```
 cat <APT_Family_Name>.tar.xz.part-* > <APT_Family_Name>.tar.xz
 
 tar -xJf <APT_Family_Name>.tar.xz
-`
+```
 ### Windows
 
 Step 1: Recombine
 
-`
+```
 copy /b <APT_Family_Name>.tar.xz.part-* <APT_Family_Name>.tar.xz
 
 7z x <APT_Family_Name>.tar.xz
 7z x <APT_Family_Name>.tar
-`
+```
