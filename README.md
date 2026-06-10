@@ -3,7 +3,7 @@ This repo contains report.json files of various APT families. The reports are ge
 
 ## Currently Added
 
-**Energetic Bear:** An APT group arributed to Russia
+**Energetic Bear:** An APT group arributed to Russia\
 **Gorgon Group:** An APT group arributed to Pakistan
 
 ## Complete Analysis
