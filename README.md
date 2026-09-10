@@ -3,8 +3,19 @@ This repo contains report.json files of various APT families. The reports are ge
 
 ## Currently Added
 
-**Energetic Bear:** An APT group arributed to Russia\
-**Gorgon Group:** An APT group arributed to Pakistan
+**APT 1:** An APT group Attributed to China\
+**APT 10:** An APT group Attributed to China\
+**APT 19:** An APT group Attributed to China\
+**APT 21:** An APT group Attributed to China\
+**APT 30:** An APT group Attributed to China\
+**Winnit:** An APT group Attributed to China\
+**APT 28:** An APT group Attributed to Russia\
+**APT 29:** An APT group Attributed to Russia\
+**Energetic Bear:** An APT group Attributed to Russia\
+**DarkHotel:** An APT group Attributed to North-Korea\
+**Equation Group:** An APT group Attributed to US\
+**Gorgon Group:** An APT group Attributed to Pakistan
+
 
 ## Complete Analysis
 
